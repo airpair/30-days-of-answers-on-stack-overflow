@@ -78,15 +78,17 @@ This downvote haunted me for days. The user who downvoted my answer did not prov
 
 Commenting when you downvote is not required by Stack Overflow and after much lamenting I've concluded that I think this is how the site should work. Commenting after a downvote is just another area of the site where courtesy reigns.
 
-If you are feeling courteous when you downvote, though, I recommend you respond in one of two ways:
+If you are feeling courteous when you downvote, though, you should respond in one of two ways:
 
 1. If a comment already exists that explains why you are downvoting, upvote that comment to draw further attention to it.
 2. If no such comment exists, provide one that constructively explains how the question or answer could be improved.
 
 # The Conclusion
 
-If you are a developer or user of Stack Overflow (or any Stack Exchange site for that matter), create an account and stay logged in. You're probably gaining a lot of benefit from the site so why not use some of its built-in feedback capabilities to improve its overall quality?
+If you frequent Stack Overflow and don't have an account then create one! If you have an account, login and stay logged in.
 
-The next time you find a useful answer, upvote it! You'll be helping the user who provided the answer with some rep, which is the Stack Overflow equivalent of a thumbs-up and encouragement to keep up the good work. If the question was phrased well, upvote it too. If not, then add a comment providing more detail that might help other people users.
+When you stumble upon a useful answer, upvote it! This is is the Stack Overflow equivalent of a thumbs-up and is the easiest way to contribute to the SO community.
 
-Do this enough and one day you might even find yourself providing answers of your own!
+If the question was well-phrased, upvote *it* too. If not, add a quick comment explaining what the asker could have done better.
+
+Do these enough and one day you might even find yourself providing answers of your own!
