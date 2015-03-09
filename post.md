@@ -26,19 +26,29 @@ I discovered there's an [association bonus](http://blog.stackoverflow.com/2009/0
 
 Stack Overflow seems like a fairly straight forward Q&amp;A service but spending thirty days immersed in answering questions helped me learn some of the more subtle aspects of the site and its community. Here are some highlights about what I learned:
 
-**Cherry Picking**
+## Cherry Picking
 
-It did not take me long to discover that questions are asked VERY frequently. It was easy for me to spend a few minutes every couple of hours each day simply refreshing the newest questions page and knocking out a few quick answers. It also did not take me long to discover that there is a lot of friendly (and sometimes, not-so-friendly) competition out there!
+It did not take me long to discover that questions are asked VERY frequently. It was easy for me to spend a few minutes each day simply refreshing the newest questions page and knocking out a few quick answers. It also did not take me long to discover that there is a lot of friendly (and sometimes not-so-friendly) competition out there!
 
 There were a few lessons I learned by playing the cherry-picking game.
 
-First, make sure you understand the whole question. Read the whole question and make sure you understand what is being asked for. If you don't understand then comment and politely ask for clarification. It is also very important to read the labels. There was at least one situation where I answered a question incorrectly because I made an assumption about the environment that the user was in and reading the labels would have prevented my bad assumption.
+**Make sure you understand the whole question.**
 
-Second, don't let the speed of your answer sacrifice the answer's quality. Silly spelling and grammar mistakes won't help anyone and are easily avoided by slowing down and/or reviewing your answer before posting it. To put it another way: well-written, complete answers get upvotes and short, sloppy answers do not. Don't write a quick, incomplete answer just to immediately edit it and fill in the missing details. Too often did I see people do this only to have other viewers, including the OP, ask for clarifications that don't end up making any sense after the answer's details were filled in. This behavior breaks the continuity of the Q&amp;A process.
+Read the whole question and make sure you understand what is being asked for. If you don't understand then comment and politely ask for clarification.
 
-Third, if you are writing an answer and another answer is posted before yours then read it *before* you post. If it's effectively the same answer that you were writing then concede your answer and upvote the other answer. If they missed a detail that you were going to provide then add your additional details in that answer's comments.
+It is also very important to read the labels. There was at least one situation where I answered a question incorrectly because I made an assumption about the environment that the user was in and reading the labels would have prevented my bad assumption.
 
-**Help Vampires**
+**Don't let the speed of your answer sacrifice the answer's quality.**
+
+Silly spelling and grammar mistakes won't help anyone and are easily avoided by slowing down and/or reviewing your answer before posting it. Well-written, complete answers get upvotes. Short, sloppy answers do not.
+
+Don't write a quick, incomplete answer just to immediately edit it and fill in the missing details. Too often did I see people do this only to have other viewers, including the OP, ask for clarifications that don't end up making any sense after the answer's details were filled in. This behavior breaks the continuity of the Q&amp;A process.
+
+**Read other answers *before* you post your own.**
+
+If it's effectively the same answer that you would write then concede your answer and upvote the other answer. If they missed a detail that you were going to provide then add your additional details in that answer's comments.
+
+## Help Vampires
 
 There is a certain category of users on Stack Overflow known as [Help Vampires](http://meta.stackexchange.com/questions/19665/the-help-vampire-problem). These users "drain the willingness to help from others."
 
@@ -50,7 +60,7 @@ What I did (and what I recommend other users in this situation should do) is wri
 
 The link to Meta Stack Exchange that I provided above also provides solid responses to most of the help vampire scenarios a user might come across. All I would add is that in cases where the generally accepted answer is to "vote down" or "flag for moderation", consider first commenting on the question and explaining how the asker could correct the issue on their own. Give the user an opportunity to correct their own mistake. This way you might help the user learn something new about the site. You might even save a moderator some time too!
 
-**Pedantic Werewolves**
+## Pedantic Werewolves
 
 Pedantic werewolves, a term that I totally just made up, are the flip side of the help vampire coin. I think they are the once well-intentioned users who have been forever transformed into something sinister by the help vampires.
 
@@ -60,7 +70,7 @@ My suggestion to pedantic werewolves is to please try being constructive and hel
 
 If you come across a werewolf just ignore them and do what they should have done in response to the help vampire. Set a good example and don't start a flame war in the comments.
 
-**Downvoting**
+## Downvoting
 
 I tried really hard over my thirty days to provide good, detailed answers to questions. At some point though, an interesting thing happened: one of my accepted answers that had zero upvotes ended up getting downvoted.
 
