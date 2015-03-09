@@ -62,11 +62,11 @@ Give help vampires the opportunity to correct their own mistakes. You might help
 
 ## Pedantic Werewolves
 
-Pedantic werewolves, a term that I totally just made up, are the flip side of the help vampire coin. I think they are the once well-intentioned users who have been forever transformed into something sinister by the help vampires.
+Pedantic werewolves, a term that I totally just made up, are the flip side of the help vampire coin. They are the once well-intentioned users who have been forever transformed by the help vampires into something sinister.
 
-As I started becoming more aware of the help vampire problem I realized that some users simply called out help vampires in ways that were mean, unhelpful, or barely helpful. Comments made by pedantic werewolves include "This is clearly just a homework problem," "Did you even try Googling first?", and "Duplicate." By the end of my thirty days I was more tired of the werewolves than I was of the vampires.
+As I started becoming more aware of the help vampire problem I realized that some users simply called out help vampires in ways that were mean or unhelpful. Comments made by pedantic werewolves include "This is clearly just a homework problem," "Did you even try Googling first?", and "Duplicate."
 
-My suggestion to pedantic werewolves is to please try being constructive and helpful at all times. Try following the [most popular answer](http://meta.stackexchange.com/questions/19665/the-help-vampire-problem#19673) for the help vampire problem. Consider taking my advice on the help vampire problem too!
+My suggestion to pedantic werewolves is to try being constructive and helpful at all times. Try following the [most popular answer](http://meta.stackexchange.com/questions/19665/the-help-vampire-problem#19673) for the help vampire problem. Consider taking my advice on the help vampire problem too!
 
 If you come across a werewolf just ignore them and do what they should have done in response to the help vampire. Set a good example and don't start a flame war in the comments.
 
