@@ -52,13 +52,13 @@ If it's effectively the same answer that you would write then concede your answe
 
 There is a certain category of users on Stack Overflow known as [Help Vampires](http://meta.stackexchange.com/questions/19665/the-help-vampire-problem). These users "drain the willingness to help from others."
 
-This is definitely a problem on Stack Overflow but I didn't know it had a name until another user called a question-asker out for being a "Help Vampire."
-
 I answered questions for several users who might be considered help vampires and only once did it really become an issue. The user accepted my answer but then continued to spam my answer with comments that asked new, unrelated questions.
 
-What I did (and what I recommend other users in this situation should do) is write a comment to the user explaining what they are doing wrong *and* what they should be doing to correct it. In my particular case I suggested that the user search SO for the new questions that they have and if no answers were found then they should ask their questions as new, instead of as comments on an unrelated question.
+My recommendation is to explain to the user what they are doing wrong *and* what they should be doing to correct it. In my particular case I suggested that the user search SO for the new questions that they have and if no answers were found then they should post new questions instead of asking questions in comments.
 
-The link to Meta Stack Exchange that I provided above also provides solid responses to most of the help vampire scenarios a user might come across. All I would add is that in cases where the generally accepted answer is to "vote down" or "flag for moderation", consider first commenting on the question and explaining how the asker could correct the issue on their own. Give the user an opportunity to correct their own mistake. This way you might help the user learn something new about the site. You might even save a moderator some time too!
+The link to Meta Stack Exchange that I provided above also provides solid responses to most help vampire scenarios. All I have to add is that in cases where the generally accepted answer is to "vote down" or "flag for moderation", consider first commenting on the question and explaining how the asker could correct the issue on their own.
+
+Give help vampires the opportunity to correct their own mistakes. You might help them learn something new about the site. You might even save a moderator some time too!
 
 ## Pedantic Werewolves
 
