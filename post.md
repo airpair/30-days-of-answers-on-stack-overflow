@@ -56,7 +56,7 @@ I answered questions for several users who might be considered help vampires and
 
 My recommendation is to explain to the user what they are doing wrong *and* what they should be doing to correct it. In my particular case I suggested that the user search SO for the new questions that they have and if no answers were found then they should post new questions instead of asking questions in comments.
 
-The [link](http://meta.stackexchange.com/questions/19665/the-help-vampire-problem) also provides good canned responses to most help vampire scenarios. All I have to add is that in cases where the generally accepted answer is to "vote down" or "flag for moderation", consider first commenting on the question and explaining how the asker could correct the issue on their own.
+The [link](http://meta.stackexchange.com/questions/19665/the-help-vampire-problem) also provides good responses to most help vampire scenarios. All I have to add is that in cases where the generally accepted answer is to "vote down" or "flag for moderation", consider first commenting on the question and explaining how the asker could correct the issue on their own.
 
 Give help vampires the opportunity to correct their own mistakes. You might help them learn something new about the site. You might even save a moderator some time too!
 
