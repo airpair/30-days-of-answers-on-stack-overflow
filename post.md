@@ -1,4 +1,4 @@
-# The Build Up
+## The Build Up
 
 For years I could summarize my usage of [Stack Overflow](http://www.stackoverflow.com) as "open a browser tab, search the web for my problem, click on the Stack Overflow result, follow the answer's advice, close the browser tab." 
 
@@ -10,11 +10,11 @@ I had been using this site for years without contributing in the slightest. Ther
 
 It was time for me to start giving back.
 
-# The Goal
+## The Goal
 
 One day, while reading through the [list of badges](http://stackoverflow.com/help/badges), I saw that I could earn a silver badge by visiting the site for 30 consecutive days. I decided this would be the basis of my goal. I would use the site for 30 straight days and try to reach 1,000 rep. But I wouldn't ask any questions, I would only answer them.
 
-# The Execution
+## The Execution
 
 As you can see from the chart below, I just barely [reached my goal](http://stackoverflow.com/users/1696044/erik-gillespie).
 
@@ -22,11 +22,11 @@ I discovered there's an [association bonus](http://blog.stackoverflow.com/2009/0
 
 ![Progress: Slow but Cumulative](http://technicalrex.files.wordpress.com/2014/07/30daysofanswerschart1.png)
 
-# The Experience
+## The Experience
 
 Stack Overflow seems like a fairly straight forward Q&amp;A service but spending thirty days immersed in answering questions helped me learn some of the more subtle aspects of the site and its community. Here are some highlights about what I learned:
 
-## Cherry Picking
+### Cherry Picking
 
 It did not take me long to discover that questions are asked VERY frequently. It was easy for me to spend a few minutes each day simply refreshing the newest questions page and knocking out a few quick answers. It also did not take me long to discover that there is a lot of friendly (and sometimes not-so-friendly) competition out there!
 
@@ -60,7 +60,7 @@ The [link](http://meta.stackexchange.com/questions/19665/the-help-vampire-proble
 
 Give help vampires the opportunity to correct their own mistakes. You might help them learn something new about the site. You might even save a moderator some time too!
 
-## Pedantic Werewolves
+### Pedantic Werewolves
 
 Pedantic werewolves, a term that I totally just made up, are the flip side of the help vampire coin. They are the once well-intentioned users who have been forever transformed by the help vampires into something sinister.
 
@@ -70,7 +70,7 @@ My suggestion to pedantic werewolves is to try being constructive and helpful at
 
 If you come across a werewolf just ignore them and do what they should have done in response to the help vampire. Set a good example and don't start a flame war in the comments.
 
-## Downvoting
+### Downvoting
 
 I tried really hard over my thirty days to provide good, detailed answers to questions. At some point though, an interesting thing happened: one of my accepted answers that had zero upvotes ended up getting downvoted.
 
@@ -83,7 +83,7 @@ If you are feeling courteous when you downvote, though, you should respond in on
 1. If a comment already exists that explains why you are downvoting, upvote that comment to draw further attention to it.
 2. If no such comment exists, provide one that constructively explains how the question or answer could be improved.
 
-# The Conclusion
+## The Conclusion
 
 If you frequent Stack Overflow and don't have an account then create one! If you have an account, login and stay logged in.
 
