@@ -39,6 +39,8 @@ Second, don't let the speed of your answer sacrifice the answer's quality. Silly
 Third, if you are writing an answer and another answer is posted before yours then read it *before* you post. If it's effectively the same answer that you were writing then concede your answer and upvote the other answer. If they missed a detail that you were going to provide then add your additional details in that answer's comments.
 
 Also with continued usage of several of the communities on stack-exchange/stack-overflow Helping in one community that is linked by the overall stack-exchange network can both help /hurt you...  While not something every user (especially new users looking for a "quick fix" to their issue) those that see that you are strng in a particular community or topic may take more value from yours or a nother users' comments based on breadth and scope of answers in not only this community but others like ServerFault or  Ask Ubuntu ( showing a strong suit in Linux and Servers in general -- particularly  helpful in the networking /entreprise deployment space.
+
+
 **Help Vampires**
 
 There is a certain category of users on Stack Overflow known as [Help Vampires](http://meta.stackexchange.com/questions/19665/the-help-vampire-problem). These users "drain the willingness to help from others."
