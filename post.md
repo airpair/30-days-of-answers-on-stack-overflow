@@ -81,6 +81,6 @@ If you are feeling courteous when you downvote, though, I recommend you respond 
 
 If you are a developer or user of Stack Overflow (or any Stack Exchange site for that matter), create an account and stay logged in. You're probably gaining a lot of benefit from the site so why not use some of its built-in feedback capabilities to improve its overall quality?
 
-The next time you find a useful answer, upvote it! You'll be helping the user who provided the answer with some rep, which is the Stack Overflow equivalent of a thumbs-up and encouragement to keep up the good work. If the question was phrased well, upvote it too. If not, then add a comment providing more detail that might help other people users.
+The next time you find a useful answer, upvote it! You'll be helping the user who provided the answer with some rep, which is the Stack Overflow equivalent of a thumbs-up and encouragement to keep up the good work. If the question was phrased well, upvote it too. If not, then add a comment providing more detail that might help other people users.  This last part really does help, both the OP (original Poster) and the community as not everyone is as techy or aware of lingo or best practices, nor does a post from a user of another native tongue than the OP always come out in comphrensive sentences....let's face it  google translate / apertium (the open source project ) are great but not perfect.
 
 Do this enough and one day you might even find yourself providing answers of your own!
