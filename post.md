@@ -70,6 +70,8 @@ My suggestion to pedantic werewolves is to try being constructive and helpful at
 
 If you come across a werewolf just ignore them and do what they should have done in response to the help vampire. Set a good example and don't start a flame war in the comments.
 
+When commenting, keep in mind that the original poster may not be a natural at the language in which their question was asked. They might not be as tech-savvy or hip to the same lingo. Sometimes the question can be clear but the delivery is what needs improvement.
+
 ### Downvoting
 
 I tried really hard over my thirty days to provide good, detailed answers to questions. At some point though, an interesting thing happened: one of my accepted answers that had zero upvotes ended up getting downvoted.
