@@ -20,7 +20,7 @@ As you can see from the chart below, I just barely [reached my goal](http://stac
 
 I discovered there's an [association bonus](http://blog.stackoverflow.com/2009/07/cross-site-account-associations/) of 100 rep that you get when you hit 200, but I also had over a week's worth of days where I didn't score any rep at all. It was basically a slow, methodical process of reading and answering enough questions to average the 30 or so rep I would need each day to meet my goal.
 
-![Progress: Slow but Cumulative](http://technicalrex.files.wordpress.com/2014/07/30daysofanswerschart1.png)
+![Progress: Slow but Cumulative](http://technicalrex.com/img/posts/30daysofanswerschart.png)
 
 ## The Experience
 
